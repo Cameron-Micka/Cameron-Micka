@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about [MRTK Graphics Tools for Unity](https://github.com/microsoft/MixedReality-GraphicsTools-Unity) & [MRTK Graphics Tools for Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal)
+- 💬 Ask me about MRTK [Graphics Tools for Unity](https://github.com/microsoft/MixedReality-GraphicsTools-Unity) & [Graphics Tools for Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal)
 - 📫 You can reach me on Twitter [@tcmicka](https://twitter.com/tcmicka).
 
 <!--
